@@ -2,10 +2,9 @@
 
 #INSTALLATION
 
-install python by pkg install python
-
-1. git clone https://github.com/ivin-jose/Library-managment-system.git
-2. cd Library-managment-system 
-3. python Library_management_system.py
+1. pkg install python
+2. git clone https://github.com/ivin-jose/Library-managment-system.git
+3. cd Library-managment-system 
+4. python Library_management_system.py
 
 
